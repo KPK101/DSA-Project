@@ -1,2 +1,2 @@
-# DSA-Project
-Project - EP4130 - Data Science Analysis
+# DSA Project
+Project for EP4130 - Data Science Analysis
